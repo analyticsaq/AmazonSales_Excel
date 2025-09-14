@@ -48,9 +48,8 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	For Product Sold to measure in "K" representing THOUSANDS(KILO).
 -Pivot Chart
 	Choose Column Chart
-	![KPI1](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
-
 ```
+![KPI1](https://github.com/analyticsaq/AmazonSales_Excel/blob/main/KPI1.png)
 
 ---
 
@@ -64,9 +63,8 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	For Sum of Total revenue to measure in "M" representing MILLIONS and $ sign.
 -Pivot Chart
 	Choose Bar Chart
-	![KPI2](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
-
 ```
+![KPI2](https://github.com/analyticsaq/AmazonSales_Excel/blob/main/KPI2.png)
 
 ---
 
@@ -80,9 +78,8 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	For Sum of Total revenue to measure in "B" representing BILLIONS and $ Sign.
 -Pivot Chart
 	Choose Line Chart
-	![KPI3](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
-
 ```
+![KPI3](https://github.com/analyticsaq/AmazonSales_Excel/blob/main/KPI3.png)
 
 ---
 
@@ -96,9 +93,8 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 	For Item Average Cost added $ sign.
 -Pivot Chart
 	Choose Bar Chart
-	![KPI4](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
-
 ```
+![KPI4](https://github.com/analyticsaq/AmazonSales_Excel/blob/main/KPI4.png)
 
 ---
 
