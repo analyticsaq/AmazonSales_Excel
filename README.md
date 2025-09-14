@@ -113,7 +113,7 @@ This README outlines the project’s objectives, KPIs, Excel Approach, and key f
 -Added Icons, made them Responsive by adding link of sheets to navigate
  Also on others sheets to navigate here and forth.
 
-	![Dashboard](https://github.com/analyticsaq/Project_SQL_Netflix/blob/main/logo.webp)
+	![Dashboard](https://github.com/analyticsaq/AmazonSales_Excel/blob/main/Dashboard.png)
 
 ```
 
