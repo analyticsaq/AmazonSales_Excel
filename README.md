@@ -1,4 +1,5 @@
 # 📊 Amazon Sales Data Analysis using Excel
+![LOGO](https://github.com/analyticsaq/AmazonSales_Excel/blob/main/logo.png)
 
 ## 📌 Overview
 
